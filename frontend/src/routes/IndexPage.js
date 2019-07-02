@@ -1,7 +1,7 @@
 import React from "react"
 import { connect } from "dva"
 import styles from "./IndexPage.css"
-import Login from "../components/Login"
+import Login from "./User/components/Login"
 import logo from '../assets/logo.svg'
 
 class IndexPage extends React.Component {
