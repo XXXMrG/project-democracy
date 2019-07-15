@@ -2,4 +2,4 @@
 > fuck the perfect
 
 
-React + Antd + egg.js + GraphQL + mongoDB + Echarts
+React + React-Router + Redux + Antd + egg.js + GraphQL + mongoDB + Echarts
